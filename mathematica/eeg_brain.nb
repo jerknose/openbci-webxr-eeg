@@ -15,9 +15,7 @@ Cell["Model used for demo.", \
 "Subtitle",ExpressionUUID->"0258e317-92c8-4f0f-9dd4-dc9256d01cf3"],
 
 Cell["\<\
-Alex Benedict
-alex@kineviz.com
-510-932-9836\
+\
 \>", "Author",ExpressionUUID->"961c542a-06dd-4bf4-b413-c6b3d94b7d84"],
 
 Cell[CellGroupData[{

@@ -58,7 +58,7 @@ function createBroadcastServer() {
 function startPlayback(f, i) {
   //Only start broadcasting if both files have been loaded
   if (_.size(f) > 0 && _.size(i) > 0) {
-    console.log('Starting playback...');
+    // console.log('Starting playback...');
     var fdata = f;
     var idata = i;
     var playbackInt = setInterval(() => {
@@ -76,7 +76,7 @@ function startPlayback(f, i) {
       } else {
         clearInterval(playbackInt);
         if (config.loop) {
-          console.log('Looping...');
+          // console.log('Looping...');
           startPlayback(_.clone(freqData), _.clone(intenseData));
         }
       }

@@ -1,5 +1,5 @@
 {
-  "name": "kineviz_eeg_demo",
+  "name": "openbci-webxr-eeg-data-broadcast",
   "version": "1.0.0",
   "description": "",
   "main": "index.jsx",
